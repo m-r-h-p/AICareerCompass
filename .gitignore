@@ -1,0 +1,38 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.dll
+*.pdb
+
+## Rider / VS Code
+.idea/
+.vscode/
+*.DotSettings.user
+
+## Test / Coverage
+[Tt]est[Rr]esult*/
+*.trx
+coverage*.json
+coverage*.xml
+coverage*.info
+TestResults/
+
+## Environment / Secrets — هیچ‌وقت این‌ها رو کامیت نکن
+.env
+appsettings.Development.json
+appsettings.*.local.json
+secrets.json
+
+## Docker
+docker-compose.override.yml
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Build output
+publish/
+artifacts/
