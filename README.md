@@ -49,15 +49,15 @@ dotnet run --project src/AICareerCompass.Api
 
 توسعه‌ی این پروژه به‌صورت اسپرینت‌های ۱ هفته‌ای پیش می‌ره. جزئیات کامل در [Roadmap](./AI-Career-Compass-Roadmap.md).
 
-- [x] Sprint 0 — راه‌اندازی و معماری پایه
-- [ ] Sprint 1 — Domain & Application Core
-- [ ] Sprint 2 — Infrastructure & اولین منبع داده
-- [ ] Sprint 3 — لایه API
-- [ ] Sprint 4 — موتور تحلیل
-- [ ] Sprint 5 — ورود AI (فاز اول)
-- [ ] Sprint 6 — تحلیلگر پروفایل کاربر
-- [ ] Sprint 7 — RAG ساده
-- [ ] Sprint 8 — تست، CI/CD
-- [ ] Sprint 9 — آماده‌سازی نهایی
+-  Sprint 0 — راه‌اندازی و معماری پایه
+-  Sprint 1 — Domain & Application Core
+-  Sprint 2 — Infrastructure & اولین منبع داده
+-  Sprint 3 — لایه API
+-  Sprint 4 — موتور تحلیل
+-  Sprint 5 — ورود AI (فاز اول)
+-  Sprint 6 — تحلیلگر پروفایل کاربر
+-  Sprint 7 — RAG ساده
+-  Sprint 8 — تست، CI/CD
+-  Sprint 9 — آماده‌سازی نهایی
 
 </div>
